@@ -6,6 +6,8 @@
 * tor
 * Open New Session & Keep 1 st One Running
 * ./facebash.sh
+* YouTube : I will upload tutorial here soon 😁
+* https://youtube.com/c/theunknon
 ---
 <img src="https://github.com/th3unkn0n/adfly_bot/blob/master/.image/fbsh1.jpg">
 <img src="https://github.com/th3unkn0n/adfly_bot/blob/master/.image/fbsh2.jpg">
