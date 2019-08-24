@@ -1,5 +1,6 @@
 #!/bin/bash
 gr="\e[1;32m"
+chmod +x *
 if [[ command -v tor > /dev/null 2>&1;
  	command -v curl > /dev/null 2>&1;
  	command -v torsocks > /dev/null 2>&1 ]]; then
