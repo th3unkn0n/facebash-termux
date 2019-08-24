@@ -6,6 +6,6 @@
 * ./install.sh
 * ./facebash.sh
 ---
-* This Is Just Edited Code So Can Work In Termux
+* This Is Just Edited Code So It Can Work In Termux
 * Orignal Code : 
 * github.com/thelinuxchoice/facebash
