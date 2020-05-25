@@ -8,11 +8,9 @@
 * ./facebash.sh
 * YouTube : I will upload tutorial here soon 😁
 * https://youtube.com/c/theunknon
+
 ---
-<img src="https://github.com/th3unkn0n/adfly_bot/blob/master/.image/fbsh1.jpg">
-<img src="https://github.com/th3unkn0n/adfly_bot/blob/master/.image/fbsh2.jpg">
-<img src="https://github.com/th3unkn0n/adfly_bot/blob/master/.image/fbsh3.jpg">
----
+
 * This Is Just Edited Code So It Can Work In Termux
 * Orignal Code : 
 * github.com/thelinuxchoice/facebash
