@@ -6,8 +6,6 @@
 * tor
 * Open New Session & Keep 1 st One Running
 * ./facebash.sh
-* YouTube : I will upload tutorial here soon 😁
-* https://youtube.com/c/theunknon
 
 ---
 
